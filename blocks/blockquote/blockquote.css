@@ -10,7 +10,9 @@
 }
 
 .blockquote blockquote::after {
-  border-bottom: 2px solid var(--heading-highlight-color);
+  /* --> RUG
+  border-bottom: 2px solid var(--heading-highlight-color); */
+  border-bottom: 2px solid #00e47c;
   content: '';
   display: block;
   width: 80px;
