@@ -12,7 +12,7 @@
 .blockquote blockquote::after {
   /* --> RUG
   border-bottom: 2px solid var(--heading-highlight-color); */
-  border-bottom: 2px solid #00e47c;
+  border-bottom: 2px solid #d40511;
   content: '';
   display: block;
   width: 80px;
