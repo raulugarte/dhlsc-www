@@ -15,7 +15,8 @@
   
   /* --link-color: #0296A6; */
   --link-color: #d40511;
-  --link-hover-color: #3E6470;
+  /* --link-hover-color: #3E6470; */
+  --link-hover-color: #d40511;
   --background-color: #fff;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
