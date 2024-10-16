@@ -1,5 +1,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100%" viewBox="0 0 810 540" enable-background="new 0 0 810 540" xml:space="preserve">
+
+	<defs>
+		<circle id="SVGID_1_" cx="30.8" cy="30.8" r="30.8"/>
+	</defs>
+	
 <path fill="#003399" opacity="1.000000" stroke="none" 
 	d="
 M604.000000,541.000000 
