@@ -19,11 +19,7 @@ export default async function decorate(block) {
         elem.innerHTML = `
             <div class="category-item-image">
                 <picture>
-                    <!-- <source type="image/webp" srcset="${category.heroImage.deliveryUrl}?preferwebp=true" media="(min-width: 600px)">
-                    <source type="image/webp" srcset="${category.heroImage.deliveryUrl}?preferwebp=true&width=750">
-                    <source type="${category.heroImage.mimeType}" srcset="${category.heroImage.deliveryUrl}" media="(min-width: 600px)">
-                    <img src="${category.heroImage.url}" width="${category.heroImage.width}" height="${category.heroImage.height}" alt="${category.headline}" type="${category.heroImage.mimeType}" itemprop="primaryImage" itemtype="image" loading="lazy">
-                    -->
+
                     <source type="image/webp" srcset="${category.image.deliveryUrl}?preferwebp=true" media="(min-width: 600px)">
                     <source type="image/webp" srcset="${category.image.deliveryUrl}?preferwebp=true&width=750">
                     <source type="${category.image.mimeType}" srcset="${category.image.deliveryUrl}" media="(min-width: 600px)">
