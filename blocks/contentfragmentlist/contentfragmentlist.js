@@ -65,7 +65,7 @@ async function getCategories(persistedQuery, isUE) {
         const imageUrl = getImageUrl(item.heroImage, isUE);
         return {
             _path: item._path,
-            title: item.title,
+            title: item.headline,
             /*description: item.description["plaintext"],*/
             description: item.detail["plaintext"],
             cta: { 
