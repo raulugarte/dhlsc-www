@@ -5,8 +5,10 @@
 .category-item {
     margin: 75px 75px 75px 75px;
     display: flex;
-    flex-direction: row;
+    align-items: center;
     justify-content: space-evenly;
+    background-color: #F3F2F6;
+    
 }
 
 .category-item-content {
